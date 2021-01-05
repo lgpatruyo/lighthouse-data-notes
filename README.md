@@ -10,3 +10,8 @@ This repository contains all of the notes taken by [Luis Patruyo](https://github
 Learning about how to use Bash to modify datasets
 Virtual environment 
 
+# Table of Content
+
+* [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1)
+     
